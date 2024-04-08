@@ -1,4 +1,3 @@
-class Account {
-    String nombre;
-
+cclass payment {
+    Interger ide;
 }

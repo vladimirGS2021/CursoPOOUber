@@ -1,4 +1,8 @@
 class Account {
-    String nombre;
+    Integer id;
+    String name;
+    String document;
+    String email;
+    String password;
 
 }
